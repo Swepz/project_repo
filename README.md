@@ -16,13 +16,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install <project_name>, follow these steps:
 
-Linux and macOS:
-
-```
-<install_command>
-```
-
-Windows:
+Linux
 
 ```
 <install_command>
