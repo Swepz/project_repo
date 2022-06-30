@@ -34,4 +34,4 @@ Add run commands and examples you think users will find useful. Provide an optio
 
 ---
 
-Markdown README template source: https://github.com/scottydocs
+Markdown README template inspiration source: https://github.com/scottydocs
