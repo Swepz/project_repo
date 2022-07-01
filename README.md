@@ -43,3 +43,7 @@ Markdown README template inspiration source: https://github.com/scottydocs
 - Create diagrams/charts: https://plantuml.com/ || https://app.diagrams.net/
 - Excel to Markdown table: https://tableconvert.com/
 - Software, Document and diagram editor: https://code.visualstudio.com/
+
+---
+
+Markdown README template inspiration source: https://github.com/scottydocs
