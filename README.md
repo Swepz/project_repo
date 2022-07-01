@@ -35,3 +35,11 @@ Add run commands and examples you think users will find useful. Provide an optio
 ---
 
 Markdown README template inspiration source: https://github.com/scottydocs
+
+--- 
+
+## Useful resources
+
+- Create diagrams/charts: https://plantuml.com/ || https://app.diagrams.net/
+- Excel to Markdown table: https://tableconvert.com/
+- Software, Document and diagram editor: https://code.visualstudio.com/
