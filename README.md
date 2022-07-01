@@ -32,10 +32,6 @@ To use <project_name>, follow these steps:
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
----
-
-Markdown README template inspiration source: https://github.com/scottydocs
-
 --- 
 
 ## Useful resources
